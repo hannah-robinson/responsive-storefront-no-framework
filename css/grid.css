@@ -161,7 +161,7 @@
   .col-l-8 {
     width: calc(100% / 12 * 8);
   }
-  .col-l-9m
+  .col-l-9m {
     width: calc(100% / 12 * 9);
   }
   .col-l-10 {
